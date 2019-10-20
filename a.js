@@ -1,1 +1,2 @@
-Bu bir JS File
+Bu bir JS Dosya oldugunu kabul ettim.
+Ayrica git iyi bir calisma.
