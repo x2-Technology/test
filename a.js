@@ -1,2 +1,3 @@
 Bu bir JS Dosya oldugunu kabul ettim.
-Ayrica git iyi bir calisma.
+Ayrica git iyi bir calisma olmali.
+selam 
